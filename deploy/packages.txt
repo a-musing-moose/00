@@ -1,0 +1,4 @@
+# Packages I had to install on Ubuntu 11.10 to get it working
+libavahi-compat-libdnssd1 
+libzmq-dev
+libzmq1
